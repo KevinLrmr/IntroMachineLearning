@@ -5,13 +5,11 @@ Introduction au machine learning
 ## Environnement virtuel
 Afin de créer un environnement virtuel python (permet ne pas importer les dépendances pour l'ensemble des projets python mais juste pour ce projet là)
 
-#### Création 
-`python -m venv course-venv`
+#### Création de l'env. virtuel
+`python -m venv ml-venv`
 
 #### Activation 
-`course-venv\Scripts\Activate`
+`ml-venv\Scripts\Activate`
 
 ## Installation de dépendances 
-Si besoin, installer "inquirer"
-
-`pip install inquirer`
+`pip install -r requirements.txt`
