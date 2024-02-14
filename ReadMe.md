@@ -13,3 +13,6 @@ Afin de créer un environnement virtuel python (permet ne pas importer les dépe
 
 ## Installation de dépendances 
 `pip install -r requirements.txt`
+
+## Pour lancer le notebook
+`jupyter notebook`
